@@ -2,7 +2,7 @@
 
 Submitted by: **Hassan AlJazaeri**
 
-**Flixster* is an app that displays tracks from the iTunes API and allows users to get more details about a specific track by tapping the track to present a detail view showing more information about the track.
+We will be continuing with *Flixster*. I have use Postman, a popular network debugging tool, and add the ability to fetch real data from a third party server! I have also learn collection views and tab bar controllers, both very common UI patterns found in apps. Collection views allow for more flexible UI layouts, and I have build a grid-like UI to view movies in a more visual manner..
 
 Time spent: **5* hours spent in total
 
